@@ -1,0 +1,16 @@
+PODS:
+  - LuckyUserDefaultsStorable (0.1.0)
+
+DEPENDENCIES:
+  - LuckyUserDefaultsStorable (from `../`)
+
+EXTERNAL SOURCES:
+  LuckyUserDefaultsStorable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LuckyUserDefaultsStorable: e4543c74b75c8c485d7bf3e2b5ee2899b0be0156
+
+PODFILE CHECKSUM: 283d27ccb38a68355ed05404cb4f4d3f851249c1
+
+COCOAPODS: 1.15.2
